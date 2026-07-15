@@ -1,0 +1,6 @@
+com.autocrm.test.app-androidTest-0 C:\Desktop\AutoCRM\app\build\generated\res\resValues\androidTest\debug
+com.autocrm.test.app-mergeDebugAndroidTestResources-1 C:\Desktop\AutoCRM\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.autocrm.test.app-mergeDebugAndroidTestResources-2 C:\Desktop\AutoCRM\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.autocrm.test.app-debugAndroidTest-3 C:\Desktop\AutoCRM\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+com.autocrm.test.app-core-1.6.1-4 C:\Users\User\.gradle\caches\8.9\transforms\260edbb703c5994d2e25fe7b88d661de\transformed\core-1.6.1\res
+com.autocrm.test.app-tracing-1.2.0-5 C:\Users\User\.gradle\caches\8.9\transforms\6e92e71ad5e3b224f1b5901c4fccc580\transformed\tracing-1.2.0\res
